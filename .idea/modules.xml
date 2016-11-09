@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firestorm.iml" filepath="$PROJECT_DIR$/.idea/modules/firestorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firestorm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/firestorm_main.iml" group="firestorm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firestorm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/firestorm_test.iml" group="firestorm" />
+    </modules>
+  </component>
+</project>
